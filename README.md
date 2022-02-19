@@ -18,4 +18,4 @@ Some C/C++, Pascal and assembly language experience too (college).
 
 I aspire to learn Go and machine learning (currently studying in a machine learning program).
 
-If you want to see if I could help you with a project, please let me know!
+If you want to see whether I could help you with a project, please let me know!
