@@ -13,7 +13,7 @@ manupulating camera to create a sequence of specific renders).
 Lesser skills include Java, including Java for Android: built a budgeting app for Android using basic cryptography 
 (where I used own auto-scaling algorithm for regular TextViews) and a text-mode Java chess game (college project).
 
-I also have some experience with PHP: some MODX (work website), OpenCart (tried to make an internet store) and Bitrix (work). 
+I also have some experience with PHP: some MODX (work website), OpenCart (tried to make a personal internet store) and Bitrix (work). 
 Some C/C++, Pascal and assembly language experience too (college). 
 
 I aspire to learn Go and machine learning (currently studying in a machine learning program).
